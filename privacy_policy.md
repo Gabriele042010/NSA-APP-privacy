@@ -1,64 +1,64 @@
-**Privacy Policy**
+**Informativa sulla Privacy**
 
-SSD NOVA SIRI SPORT ACADEMY built the NSA App as a Free app. This SERVICE is provided by SSD NOVA SIRI SPORT ACADEMY at no cost and is intended for use as is.
+La SSD NOVA SIRI SPORT ACADEMY ha creato NSA APP come un'app gratuita. Questo SERVIZIO è fornito dalla SSD NOVA SIRI SPORT ACADEMY gratuitamente ed è destinato all'uso così com'è.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Questa pagina viene utilizzata per informare i visitatori riguardo alle nostre politiche relative alla raccolta, all'uso e alla divulgazione di Informazioni Personali nel caso in cui qualcuno decida di utilizzare il nostro Servizio.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Se scegli di utilizzare il nostro Servizio, accetti la raccolta e l'uso delle informazioni in conformità con questa politica. Le Informazioni Personali che raccogliamo vengono utilizzate per fornire e migliorare il Servizio. Non utilizzeremo né condivideremo le tue informazioni con nessuno tranne che come descritto in questa Informativa sulla Privacy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at NSA App unless otherwise defined in this Privacy Policy.
+I termini utilizzati in questa Informativa sulla Privacy hanno lo stesso significato dei nostri Termini e Condizioni, accessibili su NSA App, a meno che non siano diversamente definiti in questa Informativa sulla Privacy.
 
-**Information Collection and Use**
+**Raccolta ed Uso delle Informazioni**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to name, surname, email, password. The information that we request will be retained by us and used as described in this privacy policy.
+Per offrire un'esperienza migliore durante l'utilizzo del nostro Servizio, potremmo richiederti di fornirci alcune informazioni personali identificabili, inclusi, ma non limitati a, nome, cognome, email e password. Le informazioni che richiediamo saranno conservate da noi e utilizzate come descritto in questa politica sulla privacy.
 
-The app does use third-party services that may collect information used to identify you.
+L'app utilizza servizi di terze parti che potrebbero raccogliere informazioni utilizzate per identificarti.
 
-Link to the privacy policy of third-party service providers used by the app
+Collegamento all'informativa sulla privacy dei fornitori di servizi di terze parti utilizzati dall'app:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 
-**Log Data**
+**Dati di Registro**
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Vogliamo informarti che ogni volta che utilizzi il nostro Servizio, in caso di errore nell'app, raccogliamo dati e informazioni (tramite prodotti di terze parti) sul tuo telefono chiamati Dati di Registro. Questi Dati di Registro potrebbero includere informazioni come l'indirizzo Internet Protocol ("IP") del dispositivo, il nome del dispositivo, la versione del sistema operativo, la configurazione dell'app durante l'utilizzo del nostro Servizio, l'ora e la data dell'uso del Servizio e altre statistiche.
 
-**Cookies**
+**Cookie**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+I cookie sono file con una piccola quantità di dati comunemente utilizzati come identificatori univoci anonimi. Questi vengono inviati al tuo browser dai siti web che visiti e vengono memorizzati nella memoria interna del tuo dispositivo.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Questo Servizio non utilizza esplicitamente questi "cookie". Tuttavia, l'app potrebbe utilizzare codice e librerie di terze parti che utilizzano "cookie" per raccogliere informazioni e migliorare i loro servizi. Hai l'opzione di accettare o rifiutare questi cookie e di essere informato quando un cookie viene inviato al tuo dispositivo. Se scegli di rifiutare i nostri cookie, potresti non essere in grado di utilizzare alcune parti di questo Servizio.
 
-**Service Providers**
+**Fornitori di Servizi**
 
-We may employ third-party companies and individuals due to the following reasons:
+Potremmo impiegare aziende e individui di terze parti per i seguenti motivi:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   Per agevolare il nostro Servizio;
+*   Per fornire il Servizio per nostro conto;
+*   Per svolgere servizi correlati al Servizio;
+*   Per aiutarci ad analizzare come il nostro Servizio viene utilizzato.
 
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Vogliamo informare gli utenti di questo Servizio che queste terze parti hanno accesso alle loro Informazioni Personali. Il motivo è di svolgere i compiti loro assegnati per nostro conto. Tuttavia, sono obbligati a non divulgare o utilizzare le informazioni per altri scopi.
 
-**Security**
+**Sicurezza**
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Valutiamo la tua fiducia nel fornirci le tue Informazioni Personali, perciò stiamo cercando di utilizzare mezzi commercialmente accettabili per proteggerle. Tuttavia, ricorda che nessun metodo di trasmissione su Internet o di memorizzazione elettronica è al 100% sicuro e affidabile, e non possiamo garantirne la sicurezza assoluta.
 
-**Links to Other Sites**
+**Collegamenti ad Altri Siti**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Questo Servizio potrebbe contenere collegamenti ad altri siti web. Se fai clic su un collegamento di terze parti, verrai indirizzato a quel sito. Nota che questi siti esterni non sono gestiti da noi. Pertanto, ti consigliamo vivamente di esaminare l'Informativa sulla Privacy di questi siti web. Non abbiamo alcun controllo e non assumiamo alcuna responsabilità per i contenuti, le politiche sulla privacy o le pratiche di qualsiasi sito o servizio di terze parti.
 
-**Children’s Privacy**
+**Privacy dei Minori**
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+Questi Servizi non sono destinati a persone di età inferiore a 13 anni. Non raccogliamo consapevolmente informazioni personali identificabili da bambini di età inferiore a 13 anni. Nel caso scopriamo che un bambino di età inferiore a 13 anni ci ha fornito informazioni personali, eliminiamo immediatamente tali informazioni dai nostri server. Se sei un genitore o un tutore e sei a conoscenza del fatto che tuo figlio ci ha fornito informazioni personali, ti preghiamo di contattarci in modo che saremo in grado di adottare le azioni necessarie.
 
-**Changes to This Privacy Policy**
+**Modifiche a Questa Informativa sulla Privacy**
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+Potremmo aggiornare periodicamente la nostra Informativa sulla Privacy. Pertanto, ti consigliamo di rivedere periodicamente questa pagina per eventuali modifiche. Ti informeremo di eventuali cambiamenti pubblicando la nuova Informativa sulla Privacy su questa pagina.
 
-This policy is effective as of 2023-09-13
+Questa politica è efficace a partire dal 13-09-2023.
 
-**Contact Us**
+**Contattaci**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at ssdnsafitness@gmail.com.
+Se hai domande o suggerimenti riguardo alla nostra Informativa sulla Privacy, non esitare a contattarci all'indirizzo ssdnsafitness@gmail.com.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Questa pagina di politica sulla privacy è stata creata su [privacypolicytemplate.net](https://privacypolicytemplate.net) e modificata/generata da [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
